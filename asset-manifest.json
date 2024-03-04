@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fresh-cart/static/css/main.b7b2e608.css",
-    "main.js": "/Fresh-cart/static/js/main.d60af7f2.js",
+    "main.css": "/Fresh-cart/static/css/main.507df768.css",
+    "main.js": "/Fresh-cart/static/js/main.5a7ad78a.js",
     "static/js/592.a685464f.chunk.js": "/Fresh-cart/static/js/592.a685464f.chunk.js",
     "static/media/fa-solid-900.ttf": "/Fresh-cart/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/slider-image-1.jpeg": "/Fresh-cart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
@@ -23,12 +23,12 @@
     "static/media/slick.ttf": "/Fresh-cart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Fresh-cart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fresh-cart/index.html",
-    "main.b7b2e608.css.map": "/Fresh-cart/static/css/main.b7b2e608.css.map",
-    "main.d60af7f2.js.map": "/Fresh-cart/static/js/main.d60af7f2.js.map",
+    "main.507df768.css.map": "/Fresh-cart/static/css/main.507df768.css.map",
+    "main.5a7ad78a.js.map": "/Fresh-cart/static/js/main.5a7ad78a.js.map",
     "592.a685464f.chunk.js.map": "/Fresh-cart/static/js/592.a685464f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7b2e608.css",
-    "static/js/main.d60af7f2.js"
+    "static/css/main.507df768.css",
+    "static/js/main.5a7ad78a.js"
   ]
 }
